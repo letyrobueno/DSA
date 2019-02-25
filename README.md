@@ -3,7 +3,7 @@
 Federal University of ABC (UFABC)
 Computer Science Bac Program
 
-Practical activities given for the Data Structures and Algorithms 2 Course
+Data Structures and Algorithms 2 Course
 
 Original website (in Portuguese): http://professor.ufabc.edu.br/~leticia.bueno/classes/aed2/
 
@@ -19,13 +19,13 @@ Program:
 
 
 Bibliography:
-1. FOLK, M.; ZOELLICK, B.; RICCARDI, G. File Structures: an Object-Oriented Approach Using C++, 3rd edition, Addison-Wesley, 1998.
-2. CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L. e STEIN, C. Introduction to Algorithms. 3rd edition, The MIT Press, 2009.
+1. FOLK, M.; ZOELLICK, B. and RICCARDI, G. File Structures: an Object-Oriented Approach Using C++, 3rd edition, Addison-Wesley, 1998.
+2. CORMEN, T.H.; LEISERSON, C.E.; RIVEST, R.L. and STEIN, C. Introduction to Algorithms. 3rd edition, The MIT Press, 2009.
 3. SEDGEWICK, R. Algorithms in C, Parts 1-4: Fundamentals, Data Structures, Sorting, Searching, 3rd edition. Addison-Wesley, 1997.
 
 Complementary Bibliography:
-1. ZIVIANI, N. Projeto de Algoritmos: com implementações em Pascal e C, 2a edição, Cengage Learning, 2009. (in Portuguese)
-2. SZWARCFITER, J. L.; MARKEZON, L. Estruturas de Dados e seus Algoritmos, 2a edição, LTC, 1994. (in Portuguese)
+1. ZIVIANI, N. Projeto de Algoritmos: com implementações em Pascal e C, 2nd edition, Cengage Learning, 2009. (in Portuguese)
+2. SZWARCFITER, J. L. and MARKEZON, L. Estruturas de Dados e seus Algoritmos, 2nd edition, LTC, 1994. (in Portuguese)
 3. DROZDEK, A. Data Structures and Algorithms in C++. International Thomson Publishing, 1996.
 
 Useful links:
