@@ -1,9 +1,9 @@
-/*  To compile in Linux from terminal: g++ -o program program.cpp
+/*  To compile in Linux from terminal: g++ -o program seqSearchRec.cpp
     To run in Linux from terminal: ./program
 */
 
-#include<iostream>
-using namespace std;
+#include <iostream> // including standard C++ input/output library file
+using namespace std; // it makes easier to reference operations included in std (ex: instead of std::cout we use just cout)
 
 /*
     Recursive Sequential/Linear Search.

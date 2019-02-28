@@ -29,4 +29,7 @@ Complementary Bibliography:
 3. DROZDEK, A. Data Structures and Algorithms in C++. International Thomson Publishing, 1996.
 
 Useful links:
-1. Best practices in C++, by Bjarne Stroustrup (creator of C++) and Herb Sutter: https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md
+1. Best practices in C++, by Bjarne Stroustrup (creator of C++) and Herb Sutter: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
+2. Programming question and answer site: https://stackoverflow.com/questions/tagged/c%2b%2b
+3. A C++ good tutorial: https://www.programiz.com/cpp-programming
+4. Website to run C++ programming online: https://ideone.com/
