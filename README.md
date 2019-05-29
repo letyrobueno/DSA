@@ -1,6 +1,6 @@
 ## Data Structures and Algorithms 2 Course
 
-### Computer Science Undergraduate Course 
+### Computer Science Undergraduate Program 
 
 **Original website (in Portuguese):** http://professor.ufabc.edu.br/~leticia.bueno/classes/aed2/
 
