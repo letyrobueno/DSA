@@ -31,4 +31,4 @@
 3. A C++ good tutorial: https://www.programiz.com/cpp-programming
 4. Website to run C++ programming online: https://ideone.com/
 
-**Acess the Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/letyrobueno/DSA/master)
+**Access to the Notebooks:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/letyrobueno/DSA/master)
