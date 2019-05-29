@@ -1,9 +1,6 @@
-# DSA
+## Data Structures and Algorithms 2 Course
 
-## UFABC - Universidade Federal do ABC, Brazil
-## Computer Science Undergraduate Course 
-
-### Data Structures and Algorithms 2 Course
+### Computer Science Undergraduate Course 
 
 **Original website (in Portuguese):** http://professor.ufabc.edu.br/~leticia.bueno/classes/aed2/
 
