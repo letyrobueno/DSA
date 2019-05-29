@@ -1,6 +1,6 @@
 # DSA
 
-UFABC -- Universidade Federal do ABC, Brazil
+UFABC - Universidade Federal do ABC, Brazil
 Computer Science Undergraduate Course 
 
 Data Structures and Algorithms 2 Course
