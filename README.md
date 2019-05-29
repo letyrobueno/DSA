@@ -6,12 +6,12 @@
 
 **Requirement:** Data Structures and Algorithms 1
 
-**Program:**
-(1) Representation, organization and data management in primary memory;
-(2) Search techniques with notions of complexity: sequential and binary search; binary search trees; AVL and Red-Black trees; tries; hashing; union-find; 
-(3) Data compression with notions of complexity: Huffman's algorithm.
-(4) Representation, organization and data management in secondary memory; 
-(5) Search techniques with notions of complexity: indexed sequential access method; B-trees; 
+**Program:**  
+(1) Representation, organization and data management in primary memory;  
+(2) Search techniques with notions of complexity: sequential and binary search; binary search trees; AVL and Red-Black trees; tries; hashing; union-find;  
+(3) Data compression with notions of complexity: Huffman's algorithm;  
+(4) Representation, organization and data management in secondary memory;  
+(5) Search techniques with notions of complexity: indexed sequential access method; B-trees;  
 (6) Sorting algorithms (mergesort and keysort).
 
 
