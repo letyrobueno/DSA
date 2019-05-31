@@ -31,4 +31,12 @@
 3. A C++ good tutorial: https://www.programiz.com/cpp-programming
 4. Website to run codes in C++ (and other languages) online: https://ideone.com/
 
-**Access the interactive Notebooks to try the codes:** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/letyrobueno/DSA/master)
+**Interactive Notebooks to try the codes:** 
+
+[Sequential Search](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/Sequential-and-Binary-Searches/Sequential-Search.ipynb)
+
+[Binary Search](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/Sequential-and-Binary-Searches/Binary-Search.ipynb)
+
+[Binary Search Trees](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/Binary-Search-Trees/Binary-Search-Trees.ipynb)
+
+[AVL Tree](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/AVL-trees/AVL-code.ipynb)
