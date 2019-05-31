@@ -35,8 +35,8 @@
 
 [Sequential Search](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FSequential-and-Binary-Searches%2FSequential-Search.ipynb)
 
-[Binary Search](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/Sequential-and-Binary-Searches/Binary-Search.ipynb)
+[Binary Search](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FSequential-and-Binary-Searches%2FBinary-Search.ipynb)
 
-[Binary Search Trees](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/Binary-Search-Trees/Binary-Search-Trees.ipynb)
+[Binary Search Trees](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FBinary-Search-Trees%2FBinary-Search-Trees.ipynb)
 
-[AVL Tree](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/AVL-trees/AVL-code.ipynb)
+[AVL Tree](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FAVL-trees%2FAVL-code.ipynb)
