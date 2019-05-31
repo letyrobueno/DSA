@@ -33,10 +33,10 @@
 
 **Interactive Notebooks to try the codes:** 
 
-[Sequential Search](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FSequential-and-Binary-Searches%2FSequential-Search.ipynb)
+1. [Sequential Search](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FSequential-and-Binary-Searches%2FSequential-Search.ipynb)
 
-[Binary Search](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FSequential-and-Binary-Searches%2FBinary-Search.ipynb)
+2. [Binary Search](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FSequential-and-Binary-Searches%2FBinary-Search.ipynb)
 
-[Binary Search Trees](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FBinary-Search-Trees%2FBinary-Search-Trees.ipynb)
+3. [Binary Search Trees](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FBinary-Search-Trees%2FBinary-Search-Trees.ipynb)
 
-[AVL Tree](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FAVL-trees%2FAVL-code.ipynb)
+4. [AVL Tree](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FAVL-trees%2FAVL-code.ipynb)
