@@ -33,7 +33,7 @@
 
 **Interactive Notebooks to try the codes:** 
 
-[Sequential Search](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/Sequential-and-Binary-Searches/Sequential-Search.ipynb)
+[Sequential Search](https://mybinder.org/v2/gh/letyrobueno/DSA/master?filepath=%2FPractical-Activities%2FSequential-and-Binary-Searches%2FSequential-Search.ipynb)
 
 [Binary Search](https://hub.mybinder.org/user/letyrobueno-dsa-rknlxtn0/notebooks/Practical-Activities/Sequential-and-Binary-Searches/Binary-Search.ipynb)
 
