@@ -2,7 +2,7 @@
 
 ### Computer Science Undergraduate Program 
 
-**Original website (in Portuguese):** http://professor.ufabc.edu.br/~leticia.bueno/classes/aed2/
+[**Original website (in Portuguese)**](http://professor.ufabc.edu.br/~leticia.bueno/classes/aed2/)
 
 **Requirement:** Data Structures and Algorithms 1
 
