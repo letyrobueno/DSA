@@ -23,7 +23,7 @@ void listParentAndChildren(Pointer p);
 // int calculateHeight(Pointer p);
 
 int main(){
-    Pointer root=NULL;
+    Pointer root = NULL;
     root = insert(23, root);
     cout << "\n RESULTING TREE: \n \n";
     listParentAndChildren(root);
@@ -34,9 +34,9 @@ int main(){
 // it inserts a node into the BST recursively
 NodeTree* insert(int key, Pointer p) {
     if (p == NULL) {
-        cout << "INSERTING: "<< key << "\n";
+        cout << "INSERTING: " << key << "\n";
         p = (Pointer) malloc(sizeof(NodeTree));
-        p->key=key;
+        p->key = key;
         p->left = NULL;
         p->right = NULL;
     } else if (key < p->key) {

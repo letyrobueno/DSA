@@ -1,5 +1,5 @@
-/*  To compile in Linux from terminal: g++ -o bst bst-solved.cpp
-    To run in a Linux terminal: ./bst
+/*  To compile in Linux from terminal: g++ -o bst-solved bst-solved.cpp
+    To run in a Linux terminal: ./bst-solved
 */
 #include<iostream>
 #include<string.h>
@@ -23,7 +23,7 @@ void postOrder(Pointer p);
 int calculateHeight(Pointer p);
 
 int main(){
-    Pointer root=NULL;
+    Pointer root = NULL;
     root = insert(23, root);
     root = insert(12, root);
     root = insert(70, root);

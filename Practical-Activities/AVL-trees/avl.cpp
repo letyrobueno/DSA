@@ -14,15 +14,15 @@ typedef struct Node {
     Pointer left,right;
     } NodeTree;
 
-NodeTree* insert(int key, NodeTree *p); // TODO: modify by adding calls to the balancing methods
-NodeTree* search(int key, NodeTree *p);
-NodeTree* case1(NodeTree *p);
-NodeTree* case2(NodeTree *p);
-void listParentAndChildren(NodeTree *p);
-void remove(int key, NodeTree *p); // TODO: implement with calls to the balancing methods
+NodeTree* insert(int key, Pointer p); // TODO: modify by adding calls to the balancing methods
+NodeTree* search(int key, Pointer p);
+NodeTree* case1(Pointer p);
+NodeTree* case2(Pointer p);
+void listParentAndChildren(Pointer p);
+void remove(int key, Pointer p); // TODO: implement with calls to the balancing methods
 
 int main(){
-    NodeTree *root=NULL;
+    NodeTree *root = NULL;
     root = insert(23, root);
     root = insert(12, root);
     root = insert(70, root);
@@ -33,11 +33,11 @@ int main(){
 }
 
 // it inserts a node into the AVL tree recursively
-NodeTree* insert(int key, NodeTree *p) {
+NodeTree* insert(int key, Pointer p) {
     if (p == NULL) {
-        cout << "INSERTING: "<< key << "\n";
+        cout << "INSERTING: " << key << "\n";
         p = new NodeTree;
-        p->key=key;
+        p->key = key;
         p->left = NULL;
         p->right = NULL;
     } else if (key < p->key) {
@@ -49,7 +49,7 @@ NodeTree* insert(int key, NodeTree *p) {
 }
 
 // it searches a key inside the AVL tree recursively
-NodeTree* search(int key, NodeTree *p) {
+NodeTree* search(int key, Pointer p) {
     if (p == NULL) {
         return NULL;
     } else if (key < p->key) {
@@ -61,7 +61,7 @@ NodeTree* search(int key, NodeTree *p) {
 }
 
 // it prints the whole tree recursively
-void listParentAndChildren(NodeTree *p) {
+void listParentAndChildren(Pointer p) {
     if (p != NULL) {
         int left = -1, right = -1;
         if (p->left != NULL) {
@@ -77,7 +77,7 @@ void listParentAndChildren(NodeTree *p) {
 }
 
 // No comments here because it's up to you to understand this part of code
-NodeTree* case1(NodeTree *p) {
+NodeTree* case1(Pointer p) {
     NodeTree *ptu = p->left;
     if (ptu->bal == -1) {
         p->left = ptu->right;
@@ -107,7 +107,7 @@ NodeTree* case1(NodeTree *p) {
 }
 
 // No comments here because it's up to you to understand this part of code
-NodeTree* case2(NodeTree *p) {
+NodeTree* case2(Pointer p) {
     NodeTree *ptu = p->right;
 
     if (ptu->bal == 1) {
@@ -138,6 +138,6 @@ NodeTree* case2(NodeTree *p) {
 }
 
 // TODO: it removes a node from the AVL tree
-void remove(int key, NodeTree *p) {
+void remove(int key, Pointer p) {
     
 }
