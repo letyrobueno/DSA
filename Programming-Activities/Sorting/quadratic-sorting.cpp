@@ -101,14 +101,14 @@ int main(int argc, char** argv) {
     char S[20];
     S[1] = 'S'; S[2] = 'O'; S[3] = 'R'; S[4] = 'T'; S[5] = 'I'; S[6] = 'N'; S[7] = 'G';
 
-    std::cout << "\n*************\n Unsorted Elements\n*************\n";
+    cout << "\n*************\n Unsorted Elements\n*************\n";
     for (int i=1; i<=7; i++)
-        std::cout << "S[" << i <<"]: " << S[i] << "\n";
+        cout << "S[" << i <<"]: " << S[i] << "\n";
     
-    std::cout << "\n*************\n Sorted by Bubble Sort\n*************\n";
+    cout << "\n*************\n Sorted by Bubble Sort\n*************\n";
     bubble_best(7, S);
     for (int i=1; i<=7; i++)
-        std::cout << "S[" << i << "]: " << S[i] << "\n";    
+        cout << "S[" << i << "]: " << S[i] << "\n";    
 
     return 0;
 }
