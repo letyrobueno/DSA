@@ -26,10 +26,11 @@
 3. DROZDEK, A. Data Structures and Algorithms in C++. International Thomson Publishing, 1996.
 
 **Useful links:**
-1. [Best practices in C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines), by Bjarne Stroustrup (creator of C++) and Herb Sutter: 
+1. [Best practices in C++](http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines), by Bjarne Stroustrup (creator of C++) and Herb Sutter. 
 2. [StackOverflow](https://stackoverflow.com/questions/tagged/c%2b%2b) - Programming question and answer site.
 3. A C++ good tutorial: https://www.programiz.com/cpp-programming
 4. Website to run codes in C++ (and other languages) online: https://ideone.com/
+5. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html) 
 
 **Interactive Notebooks to try the codes:** 
 
